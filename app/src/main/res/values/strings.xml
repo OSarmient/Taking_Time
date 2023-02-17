@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taking_Time</string>
+    <string name="title">Taking Time</string>
+    <string name="sub_title">Para que tomes un descanso</string>
+    <string name="notification">Notificaciones</string>
+    <string name="time">Tiempo</string>
+    <string name="control">Control Parental</string>
+</resources>
